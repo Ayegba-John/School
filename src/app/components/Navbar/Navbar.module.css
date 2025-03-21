@@ -1,0 +1,17 @@
+.Navbar_main {
+  border: red solid 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pic {
+  height: 8rem;
+}
+.Navbar_right {
+  border: blue solid 2px;
+  display: flex;
+}
+.Navbar_left {
+  border: green solid 2px;
+  display: flex;
+}
