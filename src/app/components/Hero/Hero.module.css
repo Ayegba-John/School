@@ -1,0 +1,10 @@
+.Hero {
+  border: 2px red solid;
+  height: 30rem;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.815),
+    rgba(93, 0, 255, 0.651)
+  );
+  font-size: xx-large;
+}
