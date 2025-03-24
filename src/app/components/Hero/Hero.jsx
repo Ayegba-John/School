@@ -12,6 +12,9 @@ const Hero = () => {
           recognized higher education degrees in tech.
         </p>
       </div>
+      <div>
+        <button></button>Discover courses<button>Book a call</button>
+      </div>
     </div>
   );
 };
