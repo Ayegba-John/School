@@ -1,0 +1,8 @@
+.main {
+  border: 2px black solid;
+  height: 60rem;
+}
+.wrap {
+  margin: 0 auto;
+  border: 2px green solid;
+}

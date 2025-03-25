@@ -11,9 +11,11 @@ const Hero = () => {
           Our 100% online Master's programs enable you to obtain internationally
           recognized higher education degrees in tech.
         </p>
-      </div>
-      <div>
-        <button></button>Discover courses<button>Book a call</button>
+
+        <div>
+          <button>Discover courses</button>
+          <button>Book a call</button>
+        </div>
       </div>
     </div>
   );
