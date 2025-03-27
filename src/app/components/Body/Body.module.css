@@ -1,9 +1,22 @@
 .main {
   border: 2px black solid;
-  height: 60rem;
+  height: 80rem;
 }
 .wrap {
-  margin: 0 auto;
+  margin-top: 5rem;
   border: 2px green solid;
   align-items: center;
+}
+.group_pic {
+  border: red 2px solid;
+  height: 45rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.group {
+  border: yellow 2px solid;
+  height: 10rem;
+  width: 50rem;
+  margin-left: 15rem;
+  margin-right: 8rem;
 }
