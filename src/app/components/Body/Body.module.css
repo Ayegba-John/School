@@ -5,4 +5,5 @@
 .wrap {
   margin: 0 auto;
   border: 2px green solid;
+  align-items: center;
 }

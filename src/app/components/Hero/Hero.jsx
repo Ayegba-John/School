@@ -7,14 +7,16 @@ const Hero = () => {
         <div>
           <h1>Boost Your Career with Accredited Master of Science Degree</h1>
         </div>
-        <p>
+        <p className={styles.para}>
           Our 100% online Master's programs enable you to obtain internationally
           recognized higher education degrees in tech.
         </p>
 
-        <div>
-          <button>Discover courses</button>
-          <button>Book a call</button>
+        <div className={styles.btn}>
+          <div>
+            <button>Discover courses</button>
+            <button>Book a call</button>
+          </div>
         </div>
       </div>
     </div>
