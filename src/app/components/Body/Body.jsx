@@ -9,6 +9,7 @@ const body = () => {
       <div className={styels.group_pic}>
         <img className={styels.group} src="group.png" alt="group icon" />
       </div>
+      <div>Discover our Master’s degrees</div>
     </div>
   );
 };
