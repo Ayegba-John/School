@@ -14,8 +14,8 @@ const Hero = () => {
 
         <div className={styles.btn}>
           <div>
-            <button>Discover courses</button>
-            <button>Book a call</button>
+            <button className={styles.btn_1}>Discover courses</button>
+            <button className={styles.btn_2}>Book a call</button>
           </div>
         </div>
       </div>

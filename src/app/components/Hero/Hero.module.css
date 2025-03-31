@@ -19,3 +19,16 @@
   margin-top: 20px;
   font-size: 20px;
 }
+.btn_1 {
+  background-color: whitesmoke;
+  border-radius: 8px;
+  height: 2.5rem;
+  width: 15rem;
+}
+.btn_2 {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  height: 2.5rem;
+  width: 15rem;
+}
