@@ -1,7 +1,4 @@
 .Container {
-  display: grid;
-  grid-template-rows: 100px 100px;
-  grid-template-columns: 100px 100px;
+  display: flex;
   gap: 1rem;
-  margin-bottom: 1rem;
 }
