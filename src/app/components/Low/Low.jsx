@@ -18,6 +18,21 @@ const low = () => {
           </p>
         </div>
       </div>
+      <div className={styles.Container}>
+        <div>
+          <p>
+            <img src="Group-d.svg" alt="" />
+            Dedication of 15-30 focused hours per week Focused hours are:  -
+            Working with the computer (not a smartphone)  - Undisrupted working
+          </p>
+        </div>
+        <div>
+          <p>
+            Bachelor’s degree or license involving technical skills or 5 years
+            of work experience + 2-year qualification or Other options available
+          </p>
+        </div>
+      </div>
     </div>
   );
 };
