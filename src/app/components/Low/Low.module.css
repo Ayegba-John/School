@@ -3,3 +3,14 @@
   gap: 1rem;
   margin-top: 2rem;
 }
+.low_button {
+  background-color: black;
+  color: whitesmoke;
+  height: 2.5rem;
+  width: 15rem;
+  border-radius: 8px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}

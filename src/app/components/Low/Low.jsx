@@ -36,6 +36,9 @@ const low = () => {
           </p>
         </div>
       </div>
+      <div className={styles.btn}>
+        <button className={styles.low_button}>Download brochure</button>
+      </div>
     </div>
   );
 };
