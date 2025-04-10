@@ -9,7 +9,9 @@ const learn = () => {
             <img className={styles.icon} src="groupe-r.svg" alt="icon" />
           </div>
 
-          <h2>Learn with highly qualified instructors</h2>
+          <h2 className={styles.tags}>
+            Learn with highly <br /> qualified instructors
+          </h2>
           <p>
             In addition to being experts in their fields, they are mentors at
             heart and focus on each student’s needs.
