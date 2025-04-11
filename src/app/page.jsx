@@ -5,6 +5,7 @@ import Hero from "./components/Hero/Hero";
 import Body from "./components/Body/Body";
 import Low from "./components/Low/Low";
 import Learn from "./components/Learn/Learn";
+import Testimony from "./components/Testimony/Testimony";
 const Home = () => {
   return (
     <div>
@@ -13,6 +14,7 @@ const Home = () => {
       <Body />
       <Low />
       <Learn />
+      <Testimony />
     </div>
   );
 };
