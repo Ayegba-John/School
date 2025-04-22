@@ -6,6 +6,7 @@ import Body from "./components/Body/Body";
 import Low from "./components/Low/Low";
 import Learn from "./components/Learn/Learn";
 import Testimony from "./components/Testimony/Testimony";
+import Form from "./components/Form/Form";
 const Home = () => {
   return (
     <div>
@@ -15,6 +16,7 @@ const Home = () => {
       <Low />
       <Learn />
       <Testimony />
+      <Form />
     </div>
   );
 };
