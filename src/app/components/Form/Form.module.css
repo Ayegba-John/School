@@ -1,4 +1,17 @@
 .main {
   border: 2px solid red;
   background-color: black;
+  height: 100rem;
+}
+.form {
+  display: flex;
+  background-color: whitesmoke;
+  height: 50rem;
+  margin: 7rem 3rem 15rem 3rem;
+  gap: 1rem;
+  padding-top: 3rem;
+  border-radius: 15px;
+}
+.dis {
+  font-size: xx-large;
 }
