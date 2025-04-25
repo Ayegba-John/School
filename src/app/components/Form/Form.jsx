@@ -4,12 +4,21 @@ const form = () => {
   return (
     <div>
       <div className={styles.main}>
-        <p>Ready to shape your feature </p>
+        <p className={styles.ready}>
+          Ready to shape your <br />
+          feature?
+        </p>
         <div className={styles.form}>
           <div>
             <p className={styles.dis}>
               Discover our Master of Science Degree in Software Engineering
             </p>
+            <p>Discover how to reach your professional goals</p>
+            <p>
+              Access the full program of our Master of Science Degree in
+              Software Engineering
+            </p>
+            <p>Explore our methodology and the technologies we teach</p>
           </div>
           <div>
             <img className={styles.guys} src="guys.jpg" alt="2 guys" />
