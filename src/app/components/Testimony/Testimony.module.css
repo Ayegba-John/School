@@ -8,3 +8,8 @@
   width: 38rem;
   border-radius: 16px;
 }
+.test {
+  display: flex;
+  gap: 2.5rem;
+  margin-top: 3rem;
+}
