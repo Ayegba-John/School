@@ -35,7 +35,11 @@ const test = () => {
       <div>
         <h2>Academic board members</h2>
         <div className={styles.test}>
-          <img src="Osuma-88.svg" alt="pic of dean" />
+          <img
+            src="Kais.svg
+          "
+            alt="pic of dean"
+          />
           <p>
             Kaïs Mabrouk, a graduate of the National School of
             Telecommunications and Sciences Po Paris Executive Education, has
@@ -51,7 +55,7 @@ const test = () => {
       <div>
         <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Osuma-88.svg" alt="pic of dean" />
+          <img src="Maher.svg" alt="pic of dean" />
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
@@ -68,7 +72,24 @@ const test = () => {
       <div>
         <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Osuma-88.svg" alt="pic of dean" />
+          <img src="Sameh.svg" alt="pic of dean" />
+          <p>
+            As Chief Product Officer at GOMYCODE, I lead teams to provide
+            affordable digital skills training, reaching over 30,000 students in
+            40 cities across 10 countries. I focus on creating impactful
+            products for underserved users, applying scientific and
+            technological knowledge for social impact. With master’s degrees in
+            electrical engineering and data science from École Polytechnique and
+            MINES ParisTech, my career spans diverse environments. A quick
+            learner, I tackle operational, technical, and strategic challenges
+            with ongoing curiosity.
+          </p>
+        </div>
+      </div>
+      <div>
+        <h2>Dean</h2>
+        <div className={styles.test}>
+          <img src="Olubayo.svg" alt="pic of dean" />
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
