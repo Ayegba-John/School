@@ -17,7 +17,7 @@ const test = () => {
       </div>
       <div>
         <h2>Dean</h2>
-        <div className={styles.test}>
+        <div className={styles.test_one}>
           <div>
             <img src="Osuma-88.svg" alt="pic of dean" />
             <p>Oussama Ourahou</p>

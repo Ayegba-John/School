@@ -13,3 +13,9 @@
   gap: 2.5rem;
   margin-top: 3rem;
 }
+.test_one {
+  display: flex;
+  gap: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
