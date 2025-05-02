@@ -18,7 +18,11 @@ const test = () => {
       <div>
         <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Osuma-88.svg" alt="pic of dean" />
+          <div>
+            <img src="Osuma-88.svg" alt="pic of dean" />
+            <p>Oussama Ourahou</p>
+          </div>
+
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
@@ -35,11 +39,12 @@ const test = () => {
       <div>
         <h2>Academic board members</h2>
         <div className={styles.test}>
-          <img
-            src="Kais.svg
-          "
-            alt="pic of dean"
-          />
+          <div>
+            <img src="kais.svg" alt="pic of kais" />
+
+            <p>Kaïs Mabrouk</p>
+          </div>
+
           <p>
             Kaïs Mabrouk, a graduate of the National School of
             Telecommunications and Sciences Po Paris Executive Education, has
@@ -53,9 +58,12 @@ const test = () => {
         </div>
       </div>
       <div>
-        <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Maher.svg" alt="pic of dean" />
+          <div>
+            <img src="Maher.svg" alt="pic of dean" />
+            <p>Maher Damak</p>
+          </div>
+
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
@@ -70,9 +78,12 @@ const test = () => {
         </div>
       </div>
       <div>
-        <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Sameh.svg" alt="pic of dean" />
+          <div>
+            <img src="Sameh.svg" alt="pic of dean" />
+            <p>Sameh Ben Fredj</p>
+          </div>
+
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
@@ -87,9 +98,12 @@ const test = () => {
         </div>
       </div>
       <div>
-        <h2>Dean</h2>
         <div className={styles.test}>
-          <img src="Olubayo.svg" alt="pic of dean" />
+          <div>
+            <img src="Olubayo.svg" alt="pic of dean" />
+            <p>Olubayo Adekanmbi</p>
+          </div>
+
           <p>
             As Chief Product Officer at GOMYCODE, I lead teams to provide
             affordable digital skills training, reaching over 30,000 students in
