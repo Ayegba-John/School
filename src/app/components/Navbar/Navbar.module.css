@@ -7,11 +7,26 @@
 .pic {
   height: 8rem;
 }
-.Navbar_right {
+.Navbar_left {
   border: blue solid 2px;
   display: flex;
+  align-items: center;
+  gap: 3rem;
+  cursor: pointer;
 }
-.Navbar_left {
-  border: green solid 2px;
+.Navbar_right {
   display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.btn {
+  height: 3rem;
+  width: 14rem;
+  border-radius: 1rem;
+  font-weight: 1000;
+  font-size: medium;
+  cursor: pointer;
+}
+.btn_right {
+  width: 3rem;
 }

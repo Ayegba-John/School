@@ -4,7 +4,10 @@ const test = () => {
     <div>
       <div className={styles.main}>
         <div>
-          <h2>Gain access to the GOMYCODE Network</h2>
+          <h2>
+            Gain access to the <br />
+            GOMYCODE Network
+          </h2>
           <p>
             Join a community of over 50,000 students Get in contact with 100
             partner organizations across 8 countries

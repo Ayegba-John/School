@@ -7,9 +7,6 @@ const form = () => {
         <p className={styles.ready}>
           Ready to shape your <br />
           feature?
-          <div>
-            <img src="white-logo.png" alt="Logo" />
-          </div>
         </p>
         <div className={styles.form}>
           <div>
@@ -25,6 +22,13 @@ const form = () => {
           </div>
           <div>
             <img className={styles.guys} src="guys.jpg" alt="2 guys" />
+          </div>
+        </div>
+        <div className={styles.white_top}>
+          <img className={styles.white_logo} src="white-logo.png" alt="logo" />
+          <div className={styles.white}>
+            <p>Master's Degree in Software Engineering</p>
+            <button className={styles.btn}>support@gomycode.co</button>
           </div>
         </div>
       </div>

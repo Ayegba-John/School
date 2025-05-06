@@ -21,3 +21,26 @@
   margin-left: 30rem;
   margin-top: 3rem;
 }
+.white_logo {
+  height: 13rem;
+}
+.white_top {
+  display: flex;
+  align-items: center;
+  gap: 15rem;
+}
+.white {
+  color: whitesmoke;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btn {
+  height: 4rem;
+  width: 15rem;
+  border-radius: 1.5rem;
+  cursor: pointer;
+  text-decoration: underline;
+  margin-top: 2rem;
+  font-size: large;
+}

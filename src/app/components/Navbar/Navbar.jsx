@@ -5,14 +5,14 @@ const Navbar = () => {
     <div className={styles.Navbar}>
       <div>
         <div className={styles.Navbar_main}>
-          <div className={styles.Navbar_right}>
+          <div className={styles.Navbar_left}>
             <img className={styles.pic} src="black-1.png" alt="Logo" />
             <p>Our Master’s programs</p>
           </div>
 
-          <div className={styles.Navbar_left}>
-            <button>Contact an advisor</button>
-            <p>NG</p>
+          <div className={styles.Navbar_right}>
+            <button className={styles.btn}>Contact an advisor</button>
+            <p className={styles.btn_right}>NG</p>
           </div>
         </div>
       </div>
