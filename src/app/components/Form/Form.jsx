@@ -19,6 +19,7 @@ const form = () => {
               Software Engineering
             </p>
             <p>Explore our methodology and the technologies we teach</p>
+            <button className={styles.btn}>Sumit</button>
           </div>
           <div>
             <img className={styles.guys} src="guys.jpg" alt="2 guys" />
