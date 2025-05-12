@@ -10,6 +10,24 @@ const body = () => {
         <img className={styels.group} src="group.png" alt="group icon" />
       </div>
       <div>Discover our Master’s degrees</div>
+      <div>
+        <div className={styels.discover}>
+          <div>
+            <p>
+              Fully online program with access to our in-person hackerspaces
+            </p>
+          </div>
+          <div>
+            <ul>
+              90 ECTS credits Self paced online learning with live instructor
+              sessions 15 Months 6 hours of course per week
+            </ul>
+          </div>
+        </div>
+        <div>
+          <p>Master’s Degree (MSc) in Software Engineering in 15 months</p>
+        </div>
+      </div>
     </div>
   );
 };
