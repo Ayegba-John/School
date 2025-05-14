@@ -25,7 +25,7 @@ const body = () => {
           </div>
         </div>
         <div>
-          <p>Master’s Degree (MSc) in Software Engineering in 15 months</p>
+          <p>Master’s Degree (MSc) in Software Engineering in 15 monthsg</p>
         </div>
       </div>
     </div>
