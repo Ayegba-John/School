@@ -25,16 +25,7 @@ const body = () => {
           </div>
         </div>
         <div>
-          <p>Master’s Degree (MSc) in Software Engineering in 15 monthsg</p>
-          <header className={styles.header}>
-            <h1>ShopEasy</h1>
-            <nav>
-              <button onClick={() => setView("products")}>Products</button>
-              <button onClick={() => setView("cart")}>
-                Cart ({cartCount})
-              </button>
-            </nav>
-          </header>
+          <p>Masters Degree (MSc) in Software Engineering in 15 monthsg</p>
         </div>
       </div>
     </div>
