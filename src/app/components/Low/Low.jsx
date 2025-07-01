@@ -10,6 +10,14 @@ const low = () => {
             English proficiency of at least B2 level Demonstrated by a
             certificate or proof of previous undergraduate study in English
           </p>
+          <p>
+            English proficiency of at least B2 level Demonstrated by a
+            certificate or proof of previous undergraduate study in English
+          </p>
+          <p>
+            English proficiency of at least B2 level Demonstrated by a
+            certificate or proof of previous undergraduate study in English
+          </p>
         </div>
         <div>
           <img src="Group-b.svg" alt="" />
