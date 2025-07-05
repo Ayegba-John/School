@@ -21,6 +21,7 @@ const low = () => {
             Up-to-date computer A computer on which you can freely install tools
             and which has an actively supported and updated operating system
           </p>
+          <p>here are some facts to put things up to date</p>
         </div>
       </div>
       <div className={styles.Container}>
