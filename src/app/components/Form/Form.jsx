@@ -11,13 +11,18 @@ const form = () => {
         <div className={styles.form}>
           <div>
             <p className={styles.dis}>
-              Discover our Master of Science Degree in Software Engineering
+              Discover our MSc program in Software <br />
+              Engineering
             </p>
+            <img src="check-mark.svg" alt="" />
             <p>Discover how to reach your professional goals</p>
             <p>
+              <img src="check-mark.svg" alt="" />
               Access the full program of our Master of Science Degree in
               Software Engineering
             </p>
+
+            <img src="check-mark.svg" alt="" />
             <p>Explore our methodology and the technologies we teach</p>
             <button className={styles.btn}>Sumit</button>
           </div>
